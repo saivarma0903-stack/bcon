@@ -8,39 +8,17 @@
       "data": {
         "color": "#10b981",
         "label": "IF",
-        "svgIcon": "images/plugins/if.svg",
+        "svgIcon": "/images/plugins/if.svg",
         "condition": ""
       },
       "type": "if",
       "nodeId": "if-1776327623163"
-    },
-    {
-      "x": 719.374843554443,
-      "y": 182.84543178973718,
-      "data": {
-        "cases": [],
-        "color": "#160d46",
-        "label": "Switch",
-        "svgIcon": "images/plugins/switch.svg",
-        "variable": ""
-      },
-      "type": "switch",
-      "nodeId": "switch-1778665609217"
     }
   ],
-  "edges": [
-    {
-      "edgeId": "edge-1778665611014",
-      "sourceId": "if-1776327623163",
-      "targetId": "switch-1778665609217",
-      "sourceHandle": "true",
-      "targetHandle": "input"
-    }
-  ],
+  "edges": [],
   "viewport": {
-    "x": -2187.4897959183672,
-    "y": -684.8571428571429,
-    "zoom": 4.658892128279883,
-    "connectionType": "bezier"
+    "x": 0,
+    "y": 0,
+    "zoom": 1
   }
 }
