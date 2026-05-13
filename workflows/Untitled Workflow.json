@@ -1,0 +1,24 @@
+{
+  "id": "19b075c8-049b-464b-9ddf-7f1dd34202de",
+  "name": "Untitled Workflow",
+  "nodes": [
+    {
+      "x": 533,
+      "y": 187,
+      "data": {
+        "color": "#10b981",
+        "label": "IF",
+        "svgIcon": "/images/plugins/if.svg",
+        "condition": ""
+      },
+      "type": "if",
+      "nodeId": "if-1776327623163"
+    }
+  ],
+  "edges": [],
+  "viewport": {
+    "x": 0,
+    "y": 0,
+    "zoom": 1
+  }
+}
